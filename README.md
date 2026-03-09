@@ -15,12 +15,12 @@ Cada exercício aborda um conceito fundamental da linguagem C#:
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+# 🛠️ Tecnologias Utilizadas
 * **Linguagem**: C#
 * **Framework**: .NET
 * **IDE**: Sugerido Visual Studio ou VS Code
 
-## ⚙️ Como Executar
+# ⚙️ Como Executar
 
 1. **Clone o repositório**:
    ```bash
@@ -35,7 +35,8 @@ Bash
 dotnet run
 Siga as instruções no terminal para escolher o exercício que deseja testar.
 
-##💡 Aprendizados
+---
+# 💡 Aprendizados
 Estes exercícios consolidaram os seguintes pontos:
 
 **Manipulação de Índices:** Compreensão profunda de como acessar, percorrer e modificar posições em um vetor.
